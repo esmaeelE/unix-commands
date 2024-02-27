@@ -18,3 +18,24 @@ Example
 echo $$
 echo $? 
 ```
+
+## Example code
+
+`hello.c`
+```
+#include <stdio.h>                                                            
+                                                                              
+int main(void){                   
+    printf("Hello world!\n");                                                 
+    return 1;                                                                 
+}
+```
+
+Output
+
+```
+$ gcc -Wall hello.c -o hello
+$ ./hello
+$ echo $?
+1
+```
