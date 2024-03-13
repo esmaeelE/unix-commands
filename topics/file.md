@@ -33,4 +33,10 @@ awk 'END{print NR}' file_name.txt
 awk '{print "/icb/product/ict/ICTPRD/ICTPRD/rating/data/mvne/"$0}' all_files.list > fullpath.list
 ```
 
+### append sring to start of each line
+```
+awk '{print "prefix"$0}' file_name.txt > new_file
+```
 
+### Fast cat?
+avoid the cat process with `$(<subset.txt)` which avoids a sub-shell and a process.
