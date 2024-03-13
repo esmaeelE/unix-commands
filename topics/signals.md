@@ -32,6 +32,10 @@ ctrl + c:
 ctrl + d: 
 ```
 
+## Use in program
+
+Programs must have signal handlers to receive some signals.
+
 ---
 
 `EOF`
