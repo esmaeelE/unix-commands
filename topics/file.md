@@ -11,6 +11,6 @@ awk '{print FILENAME (NF?" , ":"") $0}' file_name.txt
 ```
 
 ### Print first coloumn/ not work
-``
+```
 $ awk -F: '{print $1}' file_name.txt
 ```
