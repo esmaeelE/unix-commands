@@ -21,3 +21,16 @@ wc -l file_name.txt
 # faster with gawk
 awk 'END{print NR}' file_name.txt
 ```
+
+### list all files in fullpath form
+
+```
+/bin/ls -1dU $PWD/* > $output_path
+```
+
+### Make a list out of all files in full path form, by adding prefix to each line
+```
+awk '{print "/icb/product/ict/ICTPRD/ICTPRD/rating/data/mvne/"$0}' all_files.list > fullpath.list
+```
+
+
