@@ -45,6 +45,9 @@ cd -
 
 ```
 
+3. Load list of files in memory.
+
+4. 
 
 
 
