@@ -11,3 +11,7 @@ find
 ```
 grep
 ```
+## fast search
+```
+locate
+```
