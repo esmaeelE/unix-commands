@@ -1,5 +1,12 @@
 # File processing in Unix environment
 
+
+## find out type of file
+```
+file
+stat
+```
+
 ## Remove first line from text file
 ```
 sed '1d' file_name.txt
