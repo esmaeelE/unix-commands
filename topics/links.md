@@ -5,6 +5,8 @@
 * https://www.tuhs.org/
 * https://computerhistory.org/blog/the-earliest-unix-code-an-anniversary-source-code-release/
 * https://lwn.net/Articles/725297/
+* https://www.unix.com/
+* https://en.wikipedia.org/wiki/Unix
 
 ## Podcasts
 
