@@ -7,6 +7,7 @@
 * https://lwn.net/Articles/725297/
 * https://www.unix.com/
 * https://en.wikipedia.org/wiki/Unix
+* https://www.techtarget.com/searchdatacenter/definition/Unix
 
 ## Podcasts
 
