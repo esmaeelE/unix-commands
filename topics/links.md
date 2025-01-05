@@ -22,3 +22,7 @@
 * https://podcasts.google.com/feed/aHR0cHM6Ly9kZXN0aW5hdGlvbmxpbnV4Lm9yZy9mZWVkL21wMw/episode/aHR0cHM6Ly9kZXN0aW5hdGlvbmxpbnV4Lm9yZy8_cD0yNDMw
 * https://archive.org/details/podcast_cis-249-fundamentals-unix_589002238?tab=about
 * https://corecursive.com/brian-kernighan-unix-bell-labs1/#
+
+# MISC.
+* https://simson.net/page/Main_Page
+* linux haters author
