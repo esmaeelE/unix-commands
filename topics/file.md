@@ -6,7 +6,6 @@
 file
 stat
 ```
-
 ## Remove first line from text file
 ```
 sed '1d' file_name.txt
@@ -53,3 +52,10 @@ awk '{print "prefix"$0}' file_name.txt > new_file
 
 ### Fast cat?
 avoid the cat process with `$(<subset.txt)` which avoids a sub-shell and a process.
+
+
+## mach regex
+
+Mach word cisco, not mach 3850, work even cisco comes after 3850
+```^.*cisco*.(?!.*3850)```
+
