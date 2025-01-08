@@ -12,6 +12,12 @@ stat
 sed '1d' file_name.txt
 ```
 
+### print from coloumn untill end 
+
+```
+awk '{print substr($0,index($0,$2))}' < file_name.txt
+```
+
 ### Add file name to first coloumn
 ```
 awk '{print FILENAME (NF?" , ":"") $0}' file_name.txt
